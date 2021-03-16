@@ -37,7 +37,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&count_private=true&show_icons=true&theme=dracula)](https://github.com/AnuraghSarkar/github-readme-stats)
+
 ---
 
 
