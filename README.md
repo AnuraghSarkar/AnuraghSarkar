@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&count_private=true&show_icons=true&theme=radical" />
 
 ### Languages and Tools:
 
