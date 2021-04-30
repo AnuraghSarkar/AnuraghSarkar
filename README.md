@@ -19,7 +19,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraghSarkar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraghSarkar)](https://github.com/AnuraghSarkar/github-readme-stats)
 
 ### Languages and Tools:
 
