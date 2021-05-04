@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work as a Data Scientist
-- 🥅 2021 Goals: Learn some web development Stuffs
+- 🥅 2021 Goals: Learn some ML and DS Tools as well as web dev
 - ⚡ Fun fact: I love to watch anime and learning new stuffs.
 
 ### Spotify Playing 🎧
