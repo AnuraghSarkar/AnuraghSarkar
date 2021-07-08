@@ -1,4 +1,4 @@
-### Hi there, I'm Anuragh Timalsina - aka [Sarkar] 👋
+### Hi there, I'm Anuragh Timalsina - aka Sarkar 👋
 
 ## I'm a Student, Passionate Learner, Developer, and Helper!!
 
