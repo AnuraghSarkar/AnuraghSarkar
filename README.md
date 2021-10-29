@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/h6ejfkqwbicz07wonvt7m0z7d)
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fochd.co.uk%2Fwp-content%2Fuploads%2F2018%2F12%2FWhitebeard-1.png&f=1&nofb=1" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/h6ejfkqwbicz07wonvt7m0z7d)
 
 ### Connect with me:
 
