@@ -1,3 +1,6 @@
+<p align="center"><img width="80%" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gh-readme-header.png" /></p>
+
+
 ### Hi there, I'm Anuragh Timalsina - aka Sarkar 👋
 
 ## I'm a Student, Passionate Learner, Developer, and Helper!!
