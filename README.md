@@ -2,6 +2,8 @@
 
 
 ### Hi there, I'm [Anuragh Timalsina](https://anuragh.netlify.app)- aka Sarkar 👋
+![](https://komarev.com/ghpvc/?username=AnuraghSarkar&color=purple&style=flat-square)
+
 
 ## I'm a Student, Passionate Learner, Developer, and Helper!!
 
