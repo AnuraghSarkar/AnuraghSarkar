@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work as a Data Scientist
-- 🥅 2021 Goals: Learn some ML and DS Tools as well as web dev
+- 🥅 2021 Goals: Learn some ML and DS Tools.
 - ⚡ Fun fact: I love to watch anime and learning new stuffs.
 
 ### Spotify Playing 🎧
