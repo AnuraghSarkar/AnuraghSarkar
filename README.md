@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work as a Data Scientist
-- 🥅 2021 Goals: Learn some ML and DS Tools.
+- 🥅 2022 Goals: Learn Deep Learning.
 - ⚡ Fun fact: I love to watch anime and learning new stuffs.
 
 ### Spotify Playing 🎧
@@ -38,6 +38,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
+<img align="left" alt="Node" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/344/tensorflow.png" />
 <br />
 <br />
 
