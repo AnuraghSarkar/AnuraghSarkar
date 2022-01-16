@@ -23,6 +23,11 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&theme=highcontrast&show_icons=true" />
+
+
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ### Languages and Tools:
 
