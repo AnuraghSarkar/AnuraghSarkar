@@ -17,7 +17,7 @@
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fochd.co.uk%2Fwp-content%2Fuploads%2F2018%2F12%2FWhitebeard-1.png&f=1&nofb=1" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/h6ejfkqwbicz07wonvt7m0z7d)
 
 ### Connect with me:
-[<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>]
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 <br />
