@@ -27,7 +27,7 @@
 ## 🔧 Technologies & Tools
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%230075BA.svg?logo=python&logoColor=white">
-  <img alt="Javascri[t" src="https://img.shields.io/badge/Javascript%20-%232370ED.svg?logo=javascript&logoColor=white">
+  <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%232370ED.svg?logo=javascript&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/Sass20-%2300599C.svg?logo=sass%2B%2B&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%230D47A1.svg?logo=flutter&logoColor=white">
@@ -50,15 +50,15 @@
 ## :hammer_and_wrench: Language Stats
 
 <p>
-<img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuraghSarkar&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
+<img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuraghSarkar&layout=compact&theme=dark&count_private=true"/>
   <br></br>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&hide=ruby"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515"/>
 </p>
 
 <details>
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=L3odr0id)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnuraghSarkar)
 
 </details>
 
