@@ -6,11 +6,9 @@
 
 ## 💼 Contacts
 
-<br>
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%230075BA.svg?logo=instagram&logoColor=white" />][instagram]
-</br>
+![Twitter](https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white)](https://twitter.com/anuragh_js)
+![Linkedin](https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragh-timalsina-2712a01a3)
+![Instagram](https://img.shields.io/badge/Instagram%20-%230075BA.svg?logo=instagram&logoColor=white" )](https://instagram.com/anuragh.ipynb)
 
 ## 🔧 Technologies & Tools
 <p>
@@ -45,9 +43,3 @@
 </details>
 
 ---
-
-
-
-[twitter]: https://twitter.com/anuragh_js
-[instagram]: https://instagram.com/anuragh.ipynb
-[linkedin]: https://linkedin.com/in/anuragh-timalsina-2712a01a3
