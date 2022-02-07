@@ -1,44 +1,72 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Anuragh(111|nd Timalsina)|https://anuragh.netlify.com)" title="👋 Hi there! I'm (Anuragh(111|nd Timalsina)|https://anuragh.netlify.com)"/>](https://anuragh.netlify.com/)
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
+</p> 
 
-### Hi there, I'm [Anuragh Timalsina](https://anuragh.netlify.app)- aka Sarkar 👋
-![](https://komarev.com/ghpvc/?username=AnuraghSarkar&color=brightgreen&style=flat-square)
+<h1 align="center"> 🔧 Skills & Tools: </h1>
 
-## 💼 Contacts
-
-![Twitter](https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white)(https://twitter.com/anuragh_js)
-![Linkedin](https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/anuragh-timalsina-2712a01a3)
-![Instagram](https://img.shields.io/badge/Instagram%20-%230075BA.svg?logo=instagram&logoColor=white" )(https://instagram.com/anuragh.ipynb)
-
-## 🔧 Technologies & Tools
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%230075BA.svg?logo=python&logoColor=white">
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%232370ED.svg?logo=javascript&logoColor=white">
-  <img alt="Sass" src="https://img.shields.io/badge/Sass20-%2300599C.svg?logo=sass%2B%2B&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%230D47A1.svg?logo=flutter&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<p align="center">
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/python-00ADD8?&style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.google.com/intl/en_in/chrome/">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <br>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+  </a>
 </p>
 
-<br />
-## &#x1f4c8; GitHub Stats
-<p>
+<h1 align="center"> 🤝 Socials: </h1>
+  <p align="center">
+    <a href="https://twitter.com/anuragh_js">
+      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://instagram.com/anuragh.ipynb/">
+      <img src="https://img.shields.io/badge/instagram-F58025?&style=for-the-badge&logo=instagram%20overflow&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/anuragh-timalsina-2712a01a3/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</h1>
 
-  <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&show_icons=true&theme=radical&count_private=true" /> <br></br>
-  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
-  
-</p>
-  
-## :hammer_and_wrench: Language Stats
+<hr>
 
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&hide=javascript,html,ruby"/>
-</p>
 
-<details>
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnuraghSarkar)
-
-</details>
-
----
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+<a>
