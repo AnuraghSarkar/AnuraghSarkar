@@ -5,13 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=AnuraghSarkar&color=brightgreen&style=flat-square)
 
 
-## I'm a Student, Passionate Learner, Developer, and Helper!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to work as a Data Scientist
-- 🥅 2022 Goals: Learn Deep Learning.
-- ⚡ Fun fact: I love to watch anime and learning new stuffs.
-
 ### Spotify Playing 🎧
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fochd.co.uk%2Fwp-content%2Fuploads%2F2018%2F12%2FWhitebeard-1.png&f=1&nofb=1" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/h6ejfkqwbicz07wonvt7m0z7d)
@@ -23,9 +16,9 @@
 <br />
 
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Linkedin"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Linkedin"  width="22px" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instragram%20-%230075BA.svg?logo=instragram&logoColor=white" />][instagram]
 
 <br />
 
