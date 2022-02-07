@@ -4,19 +4,14 @@
 ### Hi there, I'm [Anuragh Timalsina](https://anuragh.netlify.app)- aka Sarkar 👋
 ![](https://komarev.com/ghpvc/?username=AnuraghSarkar&color=brightgreen&style=flat-square)
 
-
 ## 💼 Contacts
 
 <br>
-
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%230075BA.svg?logo=instagram&logoColor=white" />][instagram]
 </br>
 
-
-
-### Languages and Tools:
 ## 🔧 Technologies & Tools
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%230075BA.svg?logo=python&logoColor=white">
@@ -27,12 +22,8 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
-
 <br />
-<br />
-
 ## &#x1f4c8; GitHub Stats
-
 <p>
 
   <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&show_icons=true&theme=radical&count_private=true" /> <br></br>
@@ -52,8 +43,6 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnuraghSarkar)
 
 </details>
-
-
 
 ---
 
