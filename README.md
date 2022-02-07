@@ -14,11 +14,12 @@
 
 
 
+<br>
 
-
-[<img align="left" alt="Twitter" width="22px" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Linkedin"  width="22px" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instragram%20-%230075BA.svg?logo=instragram&logoColor=white" />][instagram]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instragram%20-%230075BA.svg?logo=instragram&logoColor=white" />][instagram]
+</br>
 
 
 
