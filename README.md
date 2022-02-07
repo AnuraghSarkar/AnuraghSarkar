@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anuragh TImalsina!</h1>
 ```python
 class Anuragh:
 
