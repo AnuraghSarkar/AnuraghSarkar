@@ -42,7 +42,7 @@
 
 <p>
 
-  <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=AnuraghSarkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br>
+  <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical&count_private=true" /> <br></br>
   <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
   
 </p>
