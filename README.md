@@ -1,5 +1,4 @@
-<!-- ## 💼 Contacts --><p align="center"><img width="80%" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gh-readme-header.png" /></p>
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Anuragh(111|nd Timalsina)|https://anuragh.netlify.com)" title="👋 Hi there! I'm (Anuragh(111|nd Timalsina)|https://anuragh.netlify.com)"/>](https://anuragh.netlify.com/)
 
 ### Hi there, I'm [Anuragh Timalsina](https://anuragh.netlify.app)- aka Sarkar 👋
 ![](https://komarev.com/ghpvc/?username=AnuraghSarkar&color=brightgreen&style=flat-square)
