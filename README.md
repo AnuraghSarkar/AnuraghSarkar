@@ -31,6 +31,5 @@ if __name__ == '__main__':
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&show_icons=true&theme=bear&count_private=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AnuraghSarkar&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AnuraghSarkar&theme=dark&hide_border=true" width = 600>
 </p>
