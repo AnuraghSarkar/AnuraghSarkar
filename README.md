@@ -1,28 +1,34 @@
-
+<h1 align="center">Hi 👋, I'm Anuragh TImalsina!</h1>
 ```python
-class RafnixG:
+class Anuragh:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'AnuraghSarkar'
+        self.name = 'Anuragh Timalsina'
+        self.web = 'https://anuragh.netlify.com'
+        self.twitter = '@anuragh_js'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'Flask', 'Django', 'NodeJS', 'Express'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'devops': ['Docker', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Visual Studio Code', 'Jupyter notebook', 'Redis'],
+            'misc': ['Firebase', 'SCRUM', 'GNU/Linux']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.architecture = ['SPA', 'MVC', 'PWA', 'microservices']
 
     def __str__(self):
         return self.name
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = Anuragh()
 
 
 ```
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AnuraghSarkar&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AnuraghSarkar&theme=dark&hide_border=true" width = 400>
+</p>
