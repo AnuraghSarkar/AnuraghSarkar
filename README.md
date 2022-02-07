@@ -18,30 +18,50 @@
 
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instragram%20-%230075BA.svg?logo=instragram&logoColor=white" />][instagram]
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%230075BA.svg?logo=instagram&logoColor=white" />][instagram]
 </br>
 
 
 
 ### Languages and Tools:
+## 🔧 Technologies & Tools
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%230075BA.svg?logo=python&logoColor=white">
+  <img alt="Javascri[t" src="https://img.shields.io/badge/Javascript%20-%232370ED.svg?logo=javascript&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass20-%2300599C.svg?logo=sass%2B%2B&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%230D47A1.svg?logo=flutter&logoColor=white">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/344/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn-icons.flaticon.com/png/512/4669/premium/4669966.png?token=exp=1642320100~hmac=400403765b82c4e93e0436739275ffce" />
-<img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" />
-<img align="left" alt="Node" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/344/tensorflow.png" />
 <br />
 <br />
+
+## &#x1f4c8; GitHub Stats
+
+<p>
+
+  <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=AnuraghSarkar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br>
+  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
+  
+</p>
+  
+## :hammer_and_wrench: Language Stats
+
+<p>
+<img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuraghSarkar&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
+  <br></br>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&hide=ruby"/>
+</p>
+
+<details>
+<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=L3odr0id)
+
+</details>
+
 
 
 ---
