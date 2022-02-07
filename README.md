@@ -50,9 +50,9 @@
 ## :hammer_and_wrench: Language Stats
 
 <p>
-<img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuraghSarkar&layout=compact&theme=dark&count_private=true"/>
+<img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnuraghSarkar&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
   <br></br>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraghSarkar&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&hide=javascript,html,ruby"/>
 </p>
 
 <details>
