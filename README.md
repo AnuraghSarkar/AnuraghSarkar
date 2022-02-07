@@ -13,14 +13,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-<br />
+
 
 
 [<img align="left" alt="Twitter" width="22px" src="https://img.shields.io/badge/Twitter%20-%230075BA.svg?logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Linkedin"  width="22px" src="https://img.shields.io/badge/Linkedin%20-%230075BA.svg?logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instragram%20-%230075BA.svg?logo=instragram&logoColor=white" />][instagram]
 
-<br />
 
 
 ### Languages and Tools:
