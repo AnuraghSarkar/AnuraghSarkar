@@ -35,4 +35,6 @@ if __name__ == '__main__':
 </p>
 
 <br>
-![Anuragh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnuraghSarkar&theme=dracula)
+<p align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=AnuraghSarkar&theme=dracula" width = 600>
+</p>
