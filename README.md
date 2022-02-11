@@ -33,3 +33,6 @@ if __name__ == '__main__':
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=AnuraghSarkar&theme=dark&hide_border=true" width = 600>
 </p>
+
+<br>
+![Anuragh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnuraghSarkar&theme=dracula)
