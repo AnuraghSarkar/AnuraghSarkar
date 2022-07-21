@@ -38,4 +38,14 @@ if __name__ == '__main__':
 <div align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=AnuraghSarkar&theme=dracula">
 </div>
-![snake gif] (https://github.com/AnuraghSarkar/AnuraghSarkar/blob/output/github-contribution-grid-snake.gif)
+
+<br>
+
+<div align = "center">
+  <img src = "https://github.com/AnuraghSarkar/AnuraghSarkar/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+</div>
+
+<div align = "center">
+  <img src = "https://github.com/AnuraghSarkar/AnuraghSarkar/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</div>
+
